@@ -15,7 +15,7 @@ data = load_data()
 
 custom_css = """
 <style>
-    ..st-emotion-cache-z5fcl4{
+    .st-emotion-cache-z5fcl4{
         padding-block: 20px;
     }
 </style>
