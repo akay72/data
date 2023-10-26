@@ -15,6 +15,9 @@ orig_data = data.copy()
 
 custom_css = """
 <style>
+.st-emotion-cache-z5fcl4{
+padding-block: 20px;
+}
     body {
         color: #11a4cd;
         background-color: #ffdf04;
